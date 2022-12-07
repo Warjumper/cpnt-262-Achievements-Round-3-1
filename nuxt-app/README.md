@@ -1,42 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Server Routes & Data Fetching
+## cpnt-262 Achievements Round 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### By Jesse H
 
-## Setup
+### Use
 
-Make sure to install the dependencies:
+I would use this not only for our group project (though not pokemon), I would also use this in any project in Nuxt which needs to fetch data from an api, especially seeing it from a locally hosted data folder. I will probably do something similar on my final project as well.
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+After following along wiht the tutorial, i opted out of building the search bar function and went to work more on the group project. May return at a alter date to finish the tutorial (though I did watch it all).
